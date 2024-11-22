@@ -1,0 +1,100 @@
+[{
+    "name": "A Good Girl's Guide to Murder",
+    "price": 245.67,
+    "description": "Holly Jackson. Holly Jackson was born in 1992. She grew up in Buckinghamshire and started writing stories from a young age, completing her first (poor) attempt at a book aged fifteen. 'A Good Girl's Guide to Murder' is a YA Mystery Thriller and her debut novel.",
+    "ratings": 4.5,
+    "category": "Thriller",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "The DC Comics Encyclopedia",
+    "price": 150.32,
+    "description": "Jim Lee. Jim Lee, a world-renowned comic book artist, writer, editor and publisher, is currently Chief Creative Officer of DC (DC) and Publisher for the company. Known for his incredibly detailed and dynamic artistic style, Lee is one of the most revered and respected artists in American comics.",
+    "ratings": 3.5,
+    "category": "fantasy and science fiction",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Marvel Encyclopedia",
+    "price": 440.57,
+    "description": "Stan Lee is a man who needs no introduction. Nevertheless: Having begun his career with wartime Timely Comics and staying the course throughout the Atlas era, Stan the Man made comic-book history with Fantastic Four #1, harbinger of a bold new perspective in story writing that endures to this day.",
+    "ratings": 2,
+    "category": "fantasy and science fiction",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Quiet",
+    "price": 250.45,
+    "description": "Susan Horowitz Cain (born 1968) is an American writer and lecturer. She is the author of the 2012 non-fiction book Quiet: The Power of Introverts in a World That Can't Stop Talking, which argues that modern Western culture misunderstands and undervalues the traits and capabilities of introverted people.",
+    "ratings": 4,
+    "category": "Non fiction",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Rich Dad Poor Dad",
+    "price": 767.32,
+    "description": "Best known as the author of Rich Dad Poor Dad—the #1 personal finance book of all time—Robert Kiyosaki has challenged and changed the way tens of millions of people around the world think about money. He is an entrepreneur, educator, and investor who believes the world needs more entrepreneurs who will create jobs.",
+    "ratings": 5,
+    "category": "Business and economics",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "The Lean Startup",
+    "price": 15.46,
+    "description": "Eric Ries (born September 22, 1978) is an American entrepreneur, blogger, and author of The Lean Startup, a book on the lean startup movement. He is also the author of The Startup Way, a book on modern entrepreneurial management.",
+    "ratings": 5,
+    "category": "Business and economics",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "The One",
+    "price": 10.12,
+    "description": "John Marrs is the author of #1 bestsellers including The One, The Good Samaritan, When You Disappeared, The Family Experiment, The Marriage Act, The Passengers, What Lies Between Us, Keep It In The Family and The Stranger In Her House. His next book, You Killed Me First, is out in March 2025.",
+    "ratings": 3,
+    "category": "Non fiction",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Psychology of Money",
+    "price": 10.12,
+    "description": "'The Psychology of Money – Timeless Lessons on Wealth, Greed, and Happiness' by award-winning author Morgan Housel is one of the best books on personal finance. Neat and crisply written – this book offers a lot of wisdom and high-quality content.",
+    "ratings": 3,
+    "category": "Business and economics",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Zero to One",
+    "price": 10.12,
+    "description": "Zero to One by Peter Thiel has significantly influenced corporate strategies and business models in the tech industry. The book emphasizes the importance of creating something unique and innovative, going from zero to one rather than replicating what already exists.",
+    "ratings": 3,
+    "category": "Business and economics",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "The God Of The Woods",
+    "price": 10.12,
+    "description": "Liz Moore's most ambitious and wide-reaching novel yet, The God of the Woods is a story of love, inheritance, identity, and second chances, a thrillingly layered drama about the tensions between a family and a community, and a history of secrets that will not let any of them go.",
+    "ratings": 3,
+    "category": "Mystery",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "$100 Startup",
+    "price": 10.12,
+    "description": "Chris Guillebeau is the New York Times bestselling author of The $100 Startup, The Happiness of Pursuit, and other books. Chris travels the world and writes for a small army of remarkable people at ChrisGuillebeau.com.",
+    "ratings": 3,
+    "category": "Self help",
+    "seller": "Ebay",
+    "stock": 6
+  }
+]
